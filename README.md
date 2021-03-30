@@ -18,5 +18,6 @@ This file captures the final linear regression models for first term GPA analysi
 ## Retention Descriptive
 This file cleans the data for a descriptive retention analysis in Tableau
 
-
+# 4_Deliverable
+This folder contains a brief document that captures the results of the regression analysis and the key findings from the analysis.
 
