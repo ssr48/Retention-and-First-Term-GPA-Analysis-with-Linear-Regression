@@ -21,3 +21,4 @@ This file cleans the data for a descriptive retention analysis in Tableau
 ## 4_Deliverable
 This folder contains a brief document that captures the results of the regression analysis and the key findings from the analysis.
 
+[image](https://user-images.githubusercontent.com/25066236/113501128-d1e98e00-94e8-11eb-94a4-7e5b3240a49e.png)
